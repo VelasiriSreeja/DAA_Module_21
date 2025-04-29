@@ -69,8 +69,9 @@ g1.graph = [ [0, 1, 0, 1, 0], [1, 0, 1, 1, 1],
             [0, 1, 0, 0, 1,],[1, 1, 0, 0, 1],
             [0, 1, 1, 1, 0], ]
 g1.hamCycle();
-```
 
+```
+```
 ## Output:
 ![Screenshot 2025-04-29 141024](https://github.com/user-attachments/assets/e1398294-54d7-478b-893f-67b313488041)
 
