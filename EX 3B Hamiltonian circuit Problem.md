@@ -19,10 +19,10 @@ To write a python program to check whether Hamiltonian path exits in the given g
 ## Program:
 ```
 /*
-Program to implement to check whether Hamiltonian path exits in the given graph.
 Developed by: sreeja.v
 Register Number: 212222230169 
 */
+
 class Graph():
     def __init__(self, vertices):
         self.graph = [[0 for column in range(vertices)]
@@ -70,7 +70,7 @@ g1.graph = [ [0, 1, 0, 1, 0], [1, 0, 1, 1, 1],
             [0, 1, 1, 1, 0], ]
 g1.hamCycle();
 
-
+```
 ```
 ## Output:
 ![Screenshot 2025-04-29 141024](https://github.com/user-attachments/assets/e1398294-54d7-478b-893f-67b313488041)
