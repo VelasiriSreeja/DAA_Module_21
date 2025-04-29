@@ -4,7 +4,7 @@
 To write a python program to check whether Hamiltonian path exits in the given graph.
 
 ## Algorithm
-```
+
 1. The Hamiltonian Circuit Problem seeks a path that visits each vertex exactly once and returns to the start.
 
 2. It is solved using backtracking, exploring paths recursively and checking adjacency and unvisited vertices.
@@ -14,7 +14,7 @@ To write a python program to check whether Hamiltonian path exits in the given g
 4. The process continues until a complete circuit is formed or all paths are explored.
 
 5. If a circuit is found, return True; otherwise, return False after backtracking.
-```.   
+.   
 
 ## Program:
 
